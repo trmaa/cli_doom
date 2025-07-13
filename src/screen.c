@@ -1,5 +1,6 @@
 #include "screen.h"
 
 char* get_screen() {
-	return "this is the screen";
+	char screen[192*108] = {"."};
+	return screen;
 }

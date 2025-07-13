@@ -13,26 +13,24 @@ function compile() {
 
 	printf "COMPILING:\n"
 	printf "\n"
-
 	for file in $files; do
 		file_index=$((file_index+1))
 		file_amount=$(ls $src | wc -l)
 		printf "\033[33m[Compiling $file]" 
-		printf "\033[0m $file_index/$file_amount"
+		printf "\033[0m $file_index/$file_amount\n"
 
 		file_name=${file:0:$((${#file}-2))}	
 		gcc -c $src/$file -o $objects/$file_name.o -Iinclude/
-
-		printf "\033[32m DONE\n\033[0m"
 	done
-
 	printf "\n"
 }
 
 function link() {
+	printf "LINKING...\n"
+	printf "\n"
 	gcc $objects/*.o -o $out -lncurses 
-
 	rm -r $objects
+	printf "\n"
 }
 
 function build() {
@@ -42,7 +40,7 @@ function build() {
 
 function run() {
 	if [ -f $out ]; then
-		printf "RUNNING:\n"
+		printf "RUNNING...\n"
 		printf "\n"
 		./$out
 	else

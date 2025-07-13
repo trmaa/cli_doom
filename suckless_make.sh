@@ -16,7 +16,7 @@ function compile() {
 	for file in $files; do
 		file_index=$((file_index+1))
 		file_amount=$(ls $src | wc -l)
-		printf "\033[33m[Compiling $file]" 
+		printf "\033[33m [Compiling $file]" 
 		printf "\033[0m $file_index/$file_amount\n"
 
 		file_name=${file:0:$((${#file}-2))}	

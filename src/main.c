@@ -6,20 +6,20 @@
 
 void loop() {
 	system("clear");
-	char* screen = malloc(192*108);
-	screen = get_screen();
-	for (int i = 0; i < 192*108; i++) {
-		printf("%c", screen[i]);
-		if (i % 192) {
-			printf("\n");
+	//char* screen = malloc(192*108 * sizeof(char));
+	//screen = get_screen();
+	for (int y = 0; y < 9; y++) {
+		for (int x = 0; x < 16; x++) {
+			printf(".");
 		}
+		printf("\n");
 	}
 }
 
 int main() {
 	initscr();
-	while (1) {
-		loop();
+	loop();
+	while (0) {
 		system("sleep $((1/60))");
 
 		if (!kbhit()) {

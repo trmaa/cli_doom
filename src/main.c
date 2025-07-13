@@ -6,11 +6,11 @@
 
 void loop() {
 	system("clear");
-	//char* screen = malloc(192*108 * sizeof(char));
-	//screen = get_screen();
-	for (int y = 0; y < 9; y++) {
-		for (int x = 0; x < 16; x++) {
-			printf(".");
+	char screen[SCREEN_WIDTH*SCREEN_HEIGHT] = get_screen();
+	for (int y = 0; y < SCREEN_HEIGHT; y++) {
+		for (int x = 0; x < SCREEN_WIDTH; x++) {
+			int i = x + y*SCREEN_WIDTH;
+			printf("%c%c", screen[i], screen[i]);
 		}
 		printf(".\r\n");
 	}
@@ -18,8 +18,8 @@ void loop() {
 
 int main() {
 	initscr();
-	loop();
-	while (0) {
+	while (1) {
+		loop();
 		system("sleep $((1/60))");
 
 		if (!kbhit()) {

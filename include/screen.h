@@ -1,6 +1,9 @@
 #ifndef SCREEN_H
 #define SCREEN_H
 
-char* get_screen();
+#define SCREEN_WIDTH 48 
+#define SCREEN_HEIGHT 27 
+
+auto get_screen();
 
 #endif

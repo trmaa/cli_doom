@@ -1,6 +1,9 @@
 #include "screen.h"
 
-char* get_screen() {
-	char screen[192*108] = {"."};
+auto get_screen() {
+	char screen[SCREEN_WIDTH*SCREEN_HEIGHT];
+	for (int i = 0; i < SCREEN_WIDTH*SCREEN_HEIGHT; i++) {
+		screen[i] = '.';
+	}
 	return screen;
 }

@@ -12,7 +12,7 @@ void loop() {
 		for (int x = 0; x < 16; x++) {
 			printf(".");
 		}
-		printf("\n");
+		printf(".\r\n");
 	}
 }
 

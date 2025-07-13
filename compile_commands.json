@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude/",
+      "-o",
+      "bin/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/pablo/Desktop/coding_adventures/cli_doom",
+    "file": "/home/pablo/Desktop/coding_adventures/cli_doom/src/main.c",
+    "output": "/home/pablo/Desktop/coding_adventures/cli_doom/bin/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude/",
+      "-o",
+      "bin/screen.o",
+      "src/screen.c"
+    ],
+    "directory": "/home/pablo/Desktop/coding_adventures/cli_doom",
+    "file": "/home/pablo/Desktop/coding_adventures/cli_doom/src/screen.c",
+    "output": "/home/pablo/Desktop/coding_adventures/cli_doom/bin/screen.o"
+  }
+]

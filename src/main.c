@@ -4,17 +4,17 @@
 #include "screen.h"
 #include "keyboard.h"
 
-eng_screen* main_screen;
+eng_screen main_screen;
 
 void loop() {
 	system("clear");
 
-    main_screen->render(&main_screen->buffer);
+    main_screen.render(&main_screen.buffer);
 
 	for (int y = 0; y < SCREEN_HEIGHT; y++) {
 		for (int x = 0; x < SCREEN_WIDTH; x++) {
 			int i = x + y*SCREEN_WIDTH;
-			printf("%c%c", main_screen->buffer[i], main_screen->buffer[i]);
+			printf("%c%c", main_screen.buffer[i], main_screen.buffer[i]);
 		}
 		printf(".\r\n");
 	}
@@ -37,6 +37,5 @@ int main() {
 	}
 	endwin();
 
-	free(main_screen->buffer);
-    free(main_screen);
+	free(main_screen.buffer);
 }

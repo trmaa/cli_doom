@@ -1,15 +1,17 @@
 #include <stdio.h>
-#include <stdbool.h>
-#include "array.h"
-
-void loop() {}
+#include <array.h>
 
 int main() {
-	int* arr = eng_array(int, &eng_alloc);
-	for (int i = 0; i < ENG_ARRAY_DEFAULT_CAPACITY; i++) {
-		arr[i] = i;
-	}
-	for (int i = 0; i < ENG_ARRAY_DEFAULT_CAPACITY; i++) {
-		printf("%d\n", arr[i]);
-	}
+    int* arr = eng_array(int, &eng_alloc);
+
+    eng_array_push(arr, 10);
+    eng_array_push(arr, 20);
+    eng_array_push(arr, 30);
+
+    printf("Value at 1: %d\n", eng_array_get(int, arr, 1)); // prints 20
+
+    eng_array_set(arr, 1, 99);
+    printf("New value at 1: %d\n", eng_array_get(int, arr, 1)); // prints 99
+
+    eng_array_free(arr);
 }

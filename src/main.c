@@ -1,41 +1,15 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <ncurses.h>
-#include "screen.h"
-#include "keyboard.h"
+#include <stdbool.h>
+#include "array.h"
 
-eng_screen main_screen;
-
-void loop() {
-	system("clear");
-
-    main_screen.render(&main_screen.buffer);
-
-	for (int y = 0; y < SCREEN_HEIGHT; y++) {
-		for (int x = 0; x < SCREEN_WIDTH; x++) {
-			int i = x + y*SCREEN_WIDTH;
-			printf("%c%c", main_screen.buffer[i], main_screen.buffer[i]);
-		}
-		printf(".\r\n");
-	}
-}
+void loop() {}
 
 int main() {
-    main_screen = new_eng_screen();
-
-	initscr();
-	while (1) {
-		loop();
-		system("sleep $((1/60))");
-
-		if (!kbhit()) {
-			continue;
-		}
-		if (getch() == ESC) {
-			break;
-		}
+	int* arr = eng_array(int, &eng_alloc);
+	for (int i = 0; i < ENG_ARRAY_DEFAULT_CAPACITY; i++) {
+		arr[i] = i;
 	}
-	endwin();
-
-	free(main_screen.buffer);
+	for (int i = 0; i < ENG_ARRAY_DEFAULT_CAPACITY; i++) {
+		printf("%d\n", arr[i]);
+	}
 }

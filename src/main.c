@@ -1,17 +1,54 @@
 #include <stdio.h>
-#include <array.h>
+#include <stdbool.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <eng/screen.h>
+#include <termios.h>
+#include <fcntl.h>
+#include <eng/vector.h>
+
+void disable_input_buffering() {
+    struct termios t;
+    tcgetattr(STDIN_FILENO, &t);
+    t.c_lflag &= ~(ICANON | ECHO);
+    tcsetattr(STDIN_FILENO, TCSANOW, &t);
+    fcntl(STDIN_FILENO, F_SETFL, fcntl(STDIN_FILENO, F_GETFL) | O_NONBLOCK);
+}
+
+void restore_input_buffering() {
+    struct termios t;
+    tcgetattr(STDIN_FILENO, &t);
+    t.c_lflag |= (ICANON | ECHO);
+    tcsetattr(STDIN_FILENO, TCSANOW, &t);
+}
+
+void cleanup() {
+    restore_input_buffering();
+    printf("\033[?25h");
+}
+
+eng_screen screen;
+
+void loop() {
+	system("clear");
+	screen.render();
+}
 
 int main() {
-    int* arr = eng_array(int, &eng_alloc);
+	screen = eng_new_screen(eng_new_ivec2(64, 48));
 
-    eng_array_push(arr, 10);
-    eng_array_push(arr, 20);
-    eng_array_push(arr, 30);
+	disable_input_buffering();
+	char input;
+	while (true) {
+		loop();	
 
-    printf("Value at 1: %d\n", eng_array_get(int, arr, 1)); // prints 20
+		if (read(STDIN_FILENO, &input, 1) <= 0) {
+			continue;
+		}
+		if (input == 27) {
+			break;
+		}
+	}
 
-    eng_array_set(arr, 1, 99);
-    printf("New value at 1: %d\n", eng_array_get(int, arr, 1)); // prints 99
-
-    eng_array_free(arr);
+	atexit(cleanup);
 }

@@ -13,7 +13,7 @@ typedef struct {
     void (*free)(void* ptr);
 } eng_allocator_t;
 
-extern eng_allocator_t eng_alloc;
+extern eng_allocator_t eng_alct;
 
 typedef struct {
     size_t size;

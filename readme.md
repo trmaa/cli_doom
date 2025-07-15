@@ -5,8 +5,16 @@ I do it because i want to build something using TTY only.
 
 Linux only
 
-Build: ./suckless_make.sh build
-Run: ./cdoom
+Build: 
+```bash
+./suckless_make.sh build
+````
+Run:
+```bash
+./cdoom
+````
 
 Build having changed the game but not the libs:
-    ./suckless_make.sh compile_game link clean
+```bash
+./suckless_make.sh compile_game link clean
+````

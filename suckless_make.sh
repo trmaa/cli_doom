@@ -1,4 +1,5 @@
 #!/bin/bash
+start_time=$(date +%s)
 
 src_game="src"
 src_engine="include/eng"
@@ -77,3 +78,8 @@ function run() {
 for callback in $@; do
 	$callback
 done
+
+end_time=$(date +%s)
+elapsed=$((end_time - start_time))
+
+echo "Done in $elapsed seconds"

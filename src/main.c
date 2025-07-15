@@ -3,29 +3,11 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <eng/screen.h>
+#include <eng/vector.h>
+#include <eng/input.h>
+
 #include <termios.h>
 #include <fcntl.h>
-#include <eng/vector.h>
-
-void disable_input_buffering() {
-    struct termios t;
-    tcgetattr(STDIN_FILENO, &t);
-    t.c_lflag &= ~(ICANON | ECHO);
-    tcsetattr(STDIN_FILENO, TCSANOW, &t);
-    fcntl(STDIN_FILENO, F_SETFL, fcntl(STDIN_FILENO, F_GETFL) | O_NONBLOCK);
-}
-
-void restore_input_buffering() {
-    struct termios t;
-    tcgetattr(STDIN_FILENO, &t);
-    t.c_lflag |= (ICANON | ECHO);
-    tcsetattr(STDIN_FILENO, TCSANOW, &t);
-}
-
-void cleanup() {
-    restore_input_buffering();
-    printf("\033[?25h");
-}
 
 eng_screen screen;
 
@@ -37,7 +19,8 @@ void loop() {
 int main() {
 	screen = eng_new_screen(eng_new_ivec2(64, 48));
 
-	disable_input_buffering();
+	eng_disable_input_buffering();
+
 	char input;
 	while (true) {
 		loop();	
@@ -50,5 +33,5 @@ int main() {
 		}
 	}
 
-	atexit(cleanup);
+	atexit(eng_restore_input_buffering);
 }

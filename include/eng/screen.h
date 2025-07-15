@@ -5,6 +5,8 @@
 
 typedef struct {
 	char* buffer;
+	int width;
+	int height;
 	void (*render)();
 } eng_screen;
 

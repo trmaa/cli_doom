@@ -20,7 +20,7 @@ function compile_engine() {
 		printf "\033[0m $file_index/$file_amount\n"
 
 		file_name=${file:0:$((${#file}-2))}	
-		gcc -c $src_engine/$file -o $lib/$file_name.o -I$src_engine
+		gcc -c $src_engine/$file -o $lib/$file_name.o
 	done
 	printf "\n"
 }

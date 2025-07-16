@@ -13,7 +13,7 @@ void loop() {
 }
 
 int main() {
-	screen = eng_new_screen(eng_new_ivec2(16*3, 9*3));
+	screen = eng_new_screen(eng_new_ivec2(8*8, 6*8));
 
 	eng_disable_input_buffering();
 

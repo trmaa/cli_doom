@@ -19,13 +19,13 @@ eng_screen eng_new_screen(eng_ivec2 resolution) {
 	return scr;
 }
 
-void render_buffer(eng_screen* self) {
+void render_buffer(eng_screen* this) {
 	int index;
-    for (int y = 0; y < self->height; y++) {
-		for (int x = 0; x < self->width; x++) {
-			index = x + y*self->width;
-			printf("%c", eng_array_get(char, self->buffer, index));
-			printf("%c", eng_array_get(char, self->buffer, index));
+    for (int y = 0; y < this->height; y++) {
+		for (int x = 0; x < this->width; x++) {
+			index = x + y*this->width;
+			printf("%c", eng_array_get(char, this->buffer, index));
+			printf("%c", eng_array_get(char, this->buffer, index));
 		}
 		printf("\n");
 	}
@@ -33,20 +33,20 @@ void render_buffer(eng_screen* self) {
 
 const char brightness[9] = { '.', '-', '+', '*', 'x', 'o', 'X', '&', '@' };
 
-void eng_screen_render(eng_screen* self) {
+void eng_screen_render(eng_screen* this) {
 	system("clear");
 
 	int index, bright_index, size;
 	float red, green, bright;
 	char value = brightness[bright_index];
-	for (int y = 0; y < self->height; y++) {
-		for (int x = 0; x < self->width; x++) {
-			index = x + y*self->width;
+	for (int y = 0; y < this->height; y++) {
+		for (int x = 0; x < this->width; x++) {
+			index = x + y*this->width;
 
-			red = abs(2*x - self->width) / (float)self->width;
-			green = abs(2*y - self->height) / (float)self->height;
-			//red = x / (float)self->width;
-			//green = y / (float)self->height;
+			red = abs(2*x - this->width) / (float)this->width;
+			green = abs(2*y - this->height) / (float)this->height;
+			//red = x / (float)this->width;
+			//green = y / (float)this->height;
 
 			bright = sqrtf(red*red + green*green) / sqrtf(2.f);
 			//bright = (red + green) / 3;
@@ -55,9 +55,9 @@ void eng_screen_render(eng_screen* self) {
 			bright_index = (int)(bright*size * 0.999);
 
 			value = brightness[bright_index];
-			eng_array_set(self->buffer, index, value);
+			eng_array_set(this->buffer, index, value);
 		}
 	}
 
-    render_buffer(self);	
+    render_buffer(this);	
 }

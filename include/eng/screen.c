@@ -31,10 +31,11 @@ void render_buffer(eng_screen* self) {
 	}
 }
 
+const char brightness[9] = { '.', '-', '+', '*', 'x', 'o', 'X', '&', '@' };
+
 void eng_screen_render(eng_screen* self) {
 	system("clear");
 
-	const char brightness[9] = { ' ', '.', '-', '/', '|', 'x', 'X', '#', '@' };
 	int index, bright_index, size;
 	float red, green, bright;
 	char value = brightness[bright_index];
@@ -50,8 +51,8 @@ void eng_screen_render(eng_screen* self) {
 			bright = sqrtf(red*red + green*green) / sqrtf(2.f);
 			//bright = (red + green) / 3;
 
-			size = (sizeof(brightness) / sizeof(char) - 1);
-			bright_index = (int)(bright*size);
+			size = (sizeof(brightness) / sizeof(char));
+			bright_index = (int)(bright*size * 0.999);
 
 			value = brightness[bright_index];
 			eng_array_set(self->buffer, index, value);

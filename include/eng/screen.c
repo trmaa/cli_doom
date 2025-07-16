@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
 #include "screen.h"
 #include "array.h"
 #include "vector.h"
@@ -18,9 +20,10 @@ eng_screen eng_new_screen(eng_ivec2 resolution) {
 }
 
 void render_buffer(eng_screen* self) {
+	int index;
     for (int y = 0; y < self->height; y++) {
 		for (int x = 0; x < self->width; x++) {
-			int index = x + y*self->width;
+			index = x + y*self->width;
 			printf("%c", eng_array_get(char, self->buffer, index));
 			printf("%c", eng_array_get(char, self->buffer, index));
 		}
@@ -31,19 +34,29 @@ void render_buffer(eng_screen* self) {
 void eng_screen_render(eng_screen* self) {
 	system("clear");
 
-	eng_ivec2 dots[6];
-	dots[0] = eng_new_ivec2(0, 0);
-    dots[1] = eng_new_ivec2(1, 0);
-    dots[2] = eng_new_ivec2(2, 0);
-    dots[3] = eng_new_ivec2(1, 1);
-    dots[4] = eng_new_ivec2(1, 2);
-    dots[5] = eng_new_ivec2(1, 3);
+	const char brightness[9] = { ' ', '.', '-', '/', '|', 'x', 'X', '#', '@' };
+	int index, bright_index, size;
+	float red, green, bright;
+	char value = brightness[bright_index];
+	for (int y = 0; y < self->height; y++) {
+		for (int x = 0; x < self->width; x++) {
+			index = x + y*self->width;
 
-	char value = '#';
-	for (int i = 0; i < 6; i++) {
-        int index = dots[i].x + dots[i].y*self->width;
-        eng_array_set(self->buffer, index, value);
-    }
+			red = abs(2*x - self->width) / (float)self->width;
+			green = abs(2*y - self->height) / (float)self->height;
+			//red = x / (float)self->width;
+			//green = y / (float)self->height;
+
+			bright = sqrtf(red*red + green*green) / sqrtf(2.f);
+			//bright = (red + green) / 3;
+
+			size = (sizeof(brightness) / sizeof(char) - 1);
+			bright_index = (int)(bright*size);
+
+			value = brightness[bright_index];
+			eng_array_set(self->buffer, index, value);
+		}
+	}
 
     render_buffer(self);	
 }

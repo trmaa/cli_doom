@@ -1,0 +1,594 @@
+[H[J[3J[H[J[3J[H[J[3J[H[J[3J@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||//////[H[J[3J[H[J[3J[H[J[3J[H[J[3J//--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||[H[J[3J[H[J[3J||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........------------[H[J[3J[H[J[3J[H[J[3J[H[J[3J--//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxx[H[J[3J[H[J[3JxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxx[H[J[3J[H[J[3J[H[J[3J[H[J[3Jxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////---------[H[J[3J[H[J[3J---......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx|||||||||||||||||||[H[J[3J[H[J[3J[H[J[3J[H[J[3J|||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------/////[H[J[3J[H[J[3J[H[J[3J[H[J[3J///||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+####[H[J[3J[H[J[3J##XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////[H[J[3J[H[J[3J[H[J[3J[H[J[3J------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////[H[J[3J[H[J[3J////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////[H[J[3J[H[J[3J[H[J[3J[H[J[3J////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxx[H[J[3J[H[J[3Jxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+@@############XXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX############
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------........                  ........--------////////||||||||||xxxx
+xxxxxx||||||||||////////--------..........              ..........--------////////||||||||||xxxx
+xxxxxxxx||||||||//////////--------..............................--------//////////||||||||xxxxxx
+xxxxxxxx||||||||||////////------------......................------------////////||||||||||xxxxxx
+xxxxxxxxxx||||||||||//////////--------------..........--------------//////////||||||||||xxxxxxxx
+XXxxxxxxxxxx||||||||||//////////----------------------------------//////////||||||||||xxxxxxxxxx
+XXXXxxxxxxxxxx||||||||||//////////////----------------------//////////////||||||||||xxxxxxxxxxXX
+XXXXXXxxxxxxxxxx||||||||||||//////////////////////////////////////////||||||||||||xxxxxxxxxxXXXX
+XXXXXXXXxxxxxxxxxxxx||||||||||||||//////////////////////////////||||||||||||||xxxxxxxxxxxxXXXXXX
+XXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||//////||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXX
+##XXXXXXXXXXXXxxxxxxxxxxxxxx||||||||||||||||||||||||||||||||||||||||||xxxxxxxxxxxxxxXXXXXXXXXXXX
+######XXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxx||||||||||||||||||||||xxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXX####
+##########XXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXX########

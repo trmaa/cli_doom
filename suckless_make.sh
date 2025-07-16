@@ -50,7 +50,7 @@ function link() {
 	printf "LINKING...\n"
 	printf "\n"
 	cp $lib/* $objects/
-	gcc $objects/*.o -o $out -lncurses 
+	gcc $objects/*.o -o $out -lncurses -lm 
 	printf "\n"
 }
 

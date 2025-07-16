@@ -8,7 +8,6 @@
 eng_screen screen;
 
 void loop() {
-	system("clear");
 	eng_screen_render(&screen);
 }
 
@@ -26,7 +25,7 @@ int main() {
 		if (read(STDIN_FILENO, &input, 1) <= 0) {
 			continue;
 		}
-		if (input == 27) {
+		if (input == ENG_K_ESC) {
 			break;
 		}
 	}
